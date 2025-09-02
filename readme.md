@@ -57,8 +57,7 @@ api.js – Placeholder for API calls
 
 Save favorites and view history
 
-📂 Project Structure
-recipe-recommender/
-│── index.html       # Main UI (Login, Register, Dashboard, Recipes, etc.)
-│── api.js           # Placeholder for API calls (extendable for real API integration)
-│── README.md        # Project documentation
+Contributors
+Annah Mwanza - mwanzamusenya8@gmail.com
+Bravin Musali - bravinmusali327@gmail.com
+
